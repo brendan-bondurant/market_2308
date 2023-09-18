@@ -6,8 +6,8 @@
           1,
           1,
           1,
-          14,
-          14,
+          32,
+          32,
           null,
           null
         ]
@@ -17,8 +17,8 @@
           1,
           1,
           1,
-          7,
-          7,
+          32,
+          32,
           null,
           null,
           null,
@@ -32,16 +32,57 @@
           null,
           null,
           1,
-          6,
+          11,
           2,
           null,
-          4,
+          9,
           null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/brendanbondurant/1mod/ICs/market_2308/market_2308/lib/market.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          0,
+          0,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null,
+          1,
+          0,
+          0,
+          null,
+          null,
+          null,
+          1,
+          0,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
           null,
           null
         ]
       }
     },
-    "timestamp": 1695053098
+    "timestamp": 1695057708
   }
 }
